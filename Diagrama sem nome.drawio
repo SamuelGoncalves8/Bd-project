@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T18:19:56.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" etag="SeInpdIqZGJUHAdI8vw5" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T18:30:37.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" etag="GN9SJbCyolMVXCnXVdyC" version="21.2.9" type="github">
   <diagram name="Página-1" id="aeVE_0QP12hosvdcAEiu">
-    <mxGraphModel dx="776" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1441" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -218,9 +218,6 @@
         <mxCell id="BxM8ZP69CIJhuokj28JI-33" value="Local de Trabalho" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="874.95" y="517" width="122.8" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="BxM8ZP69CIJhuokj28JI-34" value="Substituto" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="730" width="96" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="BxM8ZP69CIJhuokj28JI-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0.159;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="221" y="400" as="sourcePoint" />
@@ -234,7 +231,7 @@
         <mxCell id="BxM8ZP69CIJhuokj28JI-48" value="Substituido &amp;lt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="210.8" y="417" width="79.2" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BxM8ZP69CIJhuokj28JI-50" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(IC-2)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="BxM8ZP69CIJhuokj28JI-50" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(IC-4)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="260" y="398" width="64.2" height="32" as="geometry" />
         </mxCell>
         <mxCell id="j0QKD9REqWJEBM6iFjKV-2" value="&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
@@ -414,23 +411,23 @@
         <mxCell id="XoQEpPvW4UXOymJID51b-1" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(IC-1)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="271.6" y="17.33" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XoQEpPvW4UXOymJID51b-2" value="&lt;div&gt;(IC-1) O número de telemóvel de cada cliente tem que ser imutável e único.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="XoQEpPvW4UXOymJID51b-2" value="&lt;div&gt;(IC-1) O número de telemóvel de cada cliente tem que ser&amp;nbsp; único e imutável.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="34" y="474" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XoQEpPvW4UXOymJID51b-3" value="&lt;div&gt;(IC-5)&amp;nbsp; Os operadores do sistema não podem ver os nomes dos clientes.&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="37.599999999999994" y="584" width="232" height="30" as="geometry" />
+          <mxGeometry x="38.599999999999994" y="586" width="232" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XoQEpPvW4UXOymJID51b-4" value="&lt;div&gt;(IC-4) Os clientes têm que introduzir mais do que um método de pagamento.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="38" y="554" width="193.47" height="30" as="geometry" />
+          <mxGeometry x="39" y="556" width="193.47" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XoQEpPvW4UXOymJID51b-5" value="&lt;div&gt;(IC-3) O eid tem que ser único e imutável.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="24.799999999999997" y="529" width="180" height="30" as="geometry" />
+        <mxCell id="XoQEpPvW4UXOymJID51b-5" value="&lt;div&gt;(IC-3) O número da encomenda tem que ser único e imutável.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="29.799999999999997" y="529" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XoQEpPvW4UXOymJID51b-6" value="&lt;div&gt;(IC-2) Os clientes só podem pagar pelas suas próprias encomendas.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="25.730000000000004" y="504" width="193.47" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XoQEpPvW4UXOymJID51b-7" value="&lt;div&gt;(IC-6)&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="26" y="609" width="193.47" height="30" as="geometry" />
+          <mxGeometry x="27" y="611" width="193.47" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XoQEpPvW4UXOymJID51b-8" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XoQEpPvW4UXOymJID51b-26" target="BxM8ZP69CIJhuokj28JI-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -439,7 +436,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XoQEpPvW4UXOymJID51b-9" value="(IC-3)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+        <mxCell id="XoQEpPvW4UXOymJID51b-9" value="(IC-2)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="172.8" y="162.55" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XoQEpPvW4UXOymJID51b-10" value="Substituto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
