@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T16:30:27.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" etag="ZIj8P64qwerLOYPipMnc" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T16:43:32.388Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" etag="MhxMqFrYEhYz_rNZYcOd" version="21.2.9" type="github">
   <diagram name="Página-1" id="aeVE_0QP12hosvdcAEiu">
-    <mxGraphModel dx="439" dy="249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="561" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -411,16 +411,22 @@
           <mxGeometry x="271.6" y="17.33" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XoQEpPvW4UXOymJID51b-2" value="&lt;div&gt;(IC-1) O número de telemóvel de cada cliente tem que ser imutável e único.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="34" y="480" width="220" height="30" as="geometry" />
+          <mxGeometry x="34" y="474" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XoQEpPvW4UXOymJID51b-3" value="&lt;div&gt;(IC-2)&amp;nbsp; Os operadores do sistema não podem ver os nomes dos clientes.&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="37.6" y="510" width="232" height="30" as="geometry" />
+          <mxGeometry x="38" y="504" width="232" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XoQEpPvW4UXOymJID51b-4" value="&lt;div&gt;(IC-3) O eid tem que ser único e imutável.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="240" y="480" width="240" height="30" as="geometry" />
+        <mxCell id="XoQEpPvW4UXOymJID51b-4" value="&lt;div&gt;(IC-4) Os clientes têm que introduzir mais do que um método de pagamento.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="38" y="554" width="193.47" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XoQEpPvW4UXOymJID51b-5" value="&lt;div&gt;(IC-3) O eid tem que ser único e imutável.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="24.799999999999997" y="530" width="180" height="30" as="geometry" />
+          <mxGeometry x="24.799999999999997" y="529" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XoQEpPvW4UXOymJID51b-6" value="&lt;div&gt;(IC-5) Os clientes só podem pagar pelas suas próprias encomendas.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="26" y="584" width="193.47" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XoQEpPvW4UXOymJID51b-7" value="&lt;div&gt;(IC-6)&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="26" y="614" width="193.47" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
