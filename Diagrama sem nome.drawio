@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T14:38:33.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" etag="ADqk1AhrjP3UqHA31ta5" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-15T14:49:28.868Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" etag="y6o4qQLdIz9NNfFYrz_W" version="21.2.9" type="github">
   <diagram name="Página-1" id="aeVE_0QP12hosvdcAEiu">
-    <mxGraphModel dx="505" dy="287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="721" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,7 +244,7 @@
         <mxCell id="BxM8ZP69CIJhuokj28JI-48" value="Substituido &amp;lt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="210.8" y="417" width="79.2" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BxM8ZP69CIJhuokj28JI-50" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(IC-4)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="BxM8ZP69CIJhuokj28JI-50" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(IC-3)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="260.9" y="262" width="64.2" height="32" as="geometry" />
         </mxCell>
         <mxCell id="j0QKD9REqWJEBM6iFjKV-2" value="&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
@@ -543,7 +543,7 @@
         <mxCell id="XoQEpPvW4UXOymJID51b-102" value="Produto" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850.0000000000001" y="103.99999999999999" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XoQEpPvW4UXOymJID51b-104" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(IC-5)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="XoQEpPvW4UXOymJID51b-104" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(IC-4)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="82.80000000000001" y="46.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mku-w9CaR9M3IDNuvVJk-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XoQEpPvW4UXOymJID51b-12" target="BxM8ZP69CIJhuokj28JI-1" edge="1">
@@ -558,7 +558,7 @@
         <mxCell id="Mku-w9CaR9M3IDNuvVJk-24" value="SKU" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="1014.8" y="106.3" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3a-JXqNskJgeHL0p4yyx-1" value="(IC-7)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
+        <mxCell id="3a-JXqNskJgeHL0p4yyx-1" value="(IC-6)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="236.8" y="162.55" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3a-JXqNskJgeHL0p4yyx-2" value="&lt;div&gt;(IC-6)&amp;nbsp; O cliente tem que ter mais do que um método de pagamento.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
