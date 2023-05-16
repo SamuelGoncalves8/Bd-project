@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T17:18:10.406Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="mVdPS5GKgM4gJu8Mxgwq" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T15:03:38.745Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="8TPbvg4RfJ8EPdiLffh8" version="21.3.2" type="github">
   <diagram name="Página-1" id="aeVE_0QP12hosvdcAEiu">
-    <mxGraphModel dx="1434" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -531,7 +531,7 @@
         <mxCell id="XoQEpPvW4UXOymJID51b-97" value="e-mail" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="60" width="70.65" height="26.67" as="geometry" />
         </mxCell>
-        <mxCell id="XoQEpPvW4UXOymJID51b-101" value="&lt;div&gt;(IC-6)&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="XoQEpPvW4UXOymJID51b-101" value="&lt;div&gt;(IC-5)&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="529" y="400.9" width="111.79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XoQEpPvW4UXOymJID51b-102" value="Produto" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -551,12 +551,6 @@
         </mxCell>
         <mxCell id="Mku-w9CaR9M3IDNuvVJk-24" value="SKU" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="1014.8" y="106.3" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3a-JXqNskJgeHL0p4yyx-1" value="(IC-6)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="236.8" y="162.55" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3a-JXqNskJgeHL0p4yyx-2" value="&lt;div&gt;(IC-6)&amp;nbsp; O cliente tem que ter mais do que um método de pagamento.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="38.599999999999994" y="613" width="193.47" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XoQEpPvW4UXOymJID51b-20" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="976" y="194.57" width="48.2" height="50.39" as="geometry" />
@@ -587,7 +581,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WdIL--WId2jlHRTRzGa6-1" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Token&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WdIL--WId2jlHRTRzGa6-1" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Token&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="43" y="299" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
