@@ -18,13 +18,10 @@ INSERT INTO pay VALUES (1, 1);
 INSERT INTO pay VALUES (2, 3);
 INSERT INTO pay VALUES (3, 4);
 
-/* sku - unidades de manutenção de inventário - primeiros dois elementos são as duas primeiras letras do produto, separado por um travessão
- e um conjunto de números entre 3 e 8, que indicam o valor do produto em euros e cêntimos. */
 INSERT INTO Product VALUES ('DR-4695', 'dress', 'The stunning red dress exudes elegance and confidence with its vibrant hue and captivating design.' , 46.95);
 INSERT INTO Product VALUES ('PH-19999', 'phone', ' With advanced security features like facial recognition and fingerprint scanning, this phone prioritizes your privacy.' , 199.99);
 INSERT INTO Product VALUES ('TA-3999', 'table', 'This table provides a practical and stylish solution perfect for you and your home.', 39.99);
 INSERT INTO product VALUES ('BI-5386', 'bicicle', 'Perfect for people who want to live healthier and become more active' , 119.99);
-
 
 INSERT INTO Ean_Product VALUES (01231234565);
 INSERT INTO Ean_Product VALUES (12345676781),
@@ -41,9 +38,7 @@ INSERT INTO Supplier VALUES ('Thamir Alysha', '745 Hide A Way Road Sunnyvale Cal
 INSERT INTO supply-contract VALUES ('DR-4695', 72694718 , '2021/03/13');
 INSERT INTO supply-contract VALUES ('PH-19999', 73485912 , '2007/08/06');
 INSERT INTO supply-contract VALUES ('TA-3999', 71349236 , '2016/04/17');
-/* INSERT INTO Supplier VALUES ('Noémi Asa', '2661 Hott Street Clinton Oklahoma', 74326785)*/
 
-/*due to the fact that we are assuming that the process of selling happens in the USA, the ssn also has the structure of the US ssn */
 INSERT INTO Employee VALUES ('726-38-8534', 28371829, '1997/06/18', 'Saeed Aphra');
 INSERT INTO Employee VALUES ('754-91-7362', 08518391, '1991/04/01', 'Sadeq Maria');
 INSERT INTO Employee VALUES ('792-93-9141', 93714147, '1997/11/24', 'Celine Breda');
@@ -64,17 +59,17 @@ INSERT INTO workplace VALUES ('1859 Smithfield Avenue Amarillo Texas', 35, -101)
 INSERT INTO workplace VALUES ('376 Duck Creek Road San Jose California', 37, -121);
 INSERT INTO workplace VALUES ('896 Elmwood Avenue Scottsdale Arizona', 33, -111);
 
-INSERT INTO works VALUES('726-38-8534', 'Technology', '4115 Roy Alley Denver Colorado');
-INSERT INTO works VALUES('754-91-7362', 'Science', '1688 Beech Street Oakland California');
-INSERT INTO works VALUES('792-93-9141', 'Police', '896 Elmwood Avenue Scottsdale Arizona');
+INSERT INTO works VALUES ('726-38-8534', 'Technology', '4115 Roy Alley Denver Colorado');
+INSERT INTO works VALUES ('754-91-7362', 'Science', '1688 Beech Street Oakland California');
+INSERT INTO works VALUES ('792-93-9141', 'Police', '896 Elmwood Avenue Scottsdale Arizona');
 INSERT INTO works VALUES ('761-21-4256', 'Technology', '376 Duck Creek Road San Jose California');
 
 INSERT INTO Office VALUES('1688 Beech Street Oakland California');
 
-INSERT INTO Warehouse VALUES('4115 Roy Alley Denver Colorado');
-INSERT INTO Warehouse VALUES('896 Elmwood Avenue Scottsdale Arizona');
-INSERT INTO Warehouse VALUES('376 Duck Creek Road San Jose California');
+INSERT INTO Warehouse VALUES ('4115 Roy Alley Denver Colorado');
+INSERT INTO Warehouse VALUES ('896 Elmwood Avenue Scottsdale Arizona');
+INSERT INTO Warehouse VALUES ('376 Duck Creek Road San Jose California');
 
-INSERT INTO delivery VALUES('DR-4695', 72694718);
-INSERT INTO delivery VALUES('PH-19999', 73485912);
-INSERT INTO delivery VALUES('TA-3999', 71349236);
+INSERT INTO delivery VALUES ('DR-4695', 72694718);
+INSERT INTO delivery VALUES ('PH-19999', 73485912);
+INSERT INTO delivery VALUES ('TA-3999', 71349236);
