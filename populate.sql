@@ -23,6 +23,8 @@ INSERT INTO pay VALUES (3, 4);
 INSERT INTO Product VALUES ('DR-4695', 'dress', 'The stunning red dress exudes elegance and confidence with its vibrant hue and captivating design.' , 46.95);
 INSERT INTO Product VALUES ('PH-19999', 'phone', ' With advanced security features like facial recognition and fingerprint scanning, this phone prioritizes your privacy.' , 199.99);
 INSERT INTO Product VALUES ('TA-3999', 'table', 'This table provides a practical and stylish solution perfect for you and your home.', 39.99);
+INSERT INTO product VALUES ('BI-5386', 'bicicle', 'Perfect for people who want to live healthier and become more active' , 119.99);
+
 
 INSERT INTO Ean_Product VALUES (01231234565);
 INSERT INTO Ean_Product VALUES (12345676781),
