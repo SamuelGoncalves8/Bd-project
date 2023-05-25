@@ -15,8 +15,8 @@ INSERT INTO Sale VALUES (3);
 INSERT INTO Sale VALUES (4);
 
 INSERT INTO pay VALUES (1, 1); 
-INSERT INTO pay VALUES (3, 2);
-INSERT INTO pay VALUES (4, 3);
+INSERT INTO pay VALUES (2, 3);
+INSERT INTO pay VALUES (3, 4);
 
 /* sku - unidades de manutenção de inventário - primeiros dois elementos são as duas primeiras letras do produto, separado por um travessão
  e um conjunto de números entre 3 e 8, que indicam o valor do produto em euros e cêntimos. */
