@@ -2,6 +2,8 @@ INSERT INTO Customer VALUES (1, 'Johnathan', 'john.1998@gmail.com', 123456789, '
 INSERT INTO Customer VALUES (2, 'Andrew', 'andrew.2345@gmail.com', 123123123, '3470 Lords Way Union City Tennessee');
 INSERT INTO Customer VALUES (3, 'Wilburg Corin', 'wilburg.corin@gmail.com', 123451231, '2791 Robinson Lane Columbus Ohio');
 INSERT INTO Customer VALUES (4, 'Juhana Bristol', 'juhana@gmail.com', 124653138, '4302 Twin House Lane Weaubleau Missouri');
+INSERT INTO Customer VALUES (5, 'Mathew', 'mathew.2001@gmail.com', 172262811, '681 Eastland Avenue Jackson Mississippi');
+INSERT INTO Customer VALUES (6, 'Michael', 'michael.131@gmail.com', 213132212, '4387 Pratt Avenue Redmond Washington');
 
 INSERT INTO Request VALUES (1, '2021/03/12', 1);
 INSERT INTO Request VALUES (2, '2007/08/05', 3);
@@ -9,10 +11,13 @@ INSERT INTO Request VALUES (3, '2016/04/17', 4);
 INSERT INTO Request VALUES (4, '2022/06/17', 4);
 INSERT INTO Request VALUES (5, '2023/01/17', 2);
 INSERT INTO Request VALUES (6, '2023/02/18', 2);
+INSERT INTO Request VALUES (7, '2021/05/19', 6);
 
 INSERT INTO Sale VALUES (1); 
 INSERT INTO Sale VALUES (3);
 INSERT INTO Sale VALUES (4);
+INSERT INTO Sale VALUES (6);
+INSERT INTO Sale VALUES (5)
 
 INSERT INTO pay VALUES (1, 1); 
 INSERT INTO pay VALUES (2, 3);
